@@ -1,6 +1,7 @@
 body {
     /* font-family: 'Proxima Nova', Georgia, sans-serif; */
     font-family: 'Montserrat', sans-serif;
+      background-image: url("../../images/background.jpg");
     background-color: #ffffff;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
